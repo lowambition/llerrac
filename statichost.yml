@@ -1,0 +1,6 @@
+# Docker image to use for building
+image: hugomods/hugo:exts
+# Build command
+command: hugo
+# Public directory
+public: public

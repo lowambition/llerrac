@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: Llerrac
+date: 2024-11-10
 type: landing
 
 design:
@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Llerrac
+      text: <p class="lead mt-5">Cocoa and muesli &mdash; in the cloud</p>
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Turning sun
+        url: "/turning sun/"
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Notes
         url: /docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "Latest"
         link:
           text: "Read more"
           url: "/blog/"
@@ -40,18 +40,9 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "1"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+            ?
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-800"
@@ -59,36 +50,25 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
-    id: features
+    id: content
     content:
-      title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
+      title: Contents
+      text: Overview
       items:
-        - name: Optimized SEO
+        - name: Notes
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Notes I find handy
+        - name: Blog
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: To read later, maybe they points will stand the test of time.
+        - name: Turning sun
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: A strory rewritten countless times.
+        
   - block: cta-card
     content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+      title: "??"
+      text: cta-card
     design:
       card:
         # Card background color (CSS class)
