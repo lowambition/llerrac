@@ -4,3 +4,5 @@ image: hugomods/hugo:exts
 command: hugo
 # Public directory
 public: public
+domains: 
+ - llerrac-one.statichost.eu
